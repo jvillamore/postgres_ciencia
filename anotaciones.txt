@@ -1,0 +1,22 @@
+¿Cuál de las siguientes es una ventaja de las RDB?
+Alta transaccionalidad.
+
+3.
+En la implementación, ¿a qué equivalen las relaciones?
+Tablas.
+
+El lenguaje PLPSQL ayuda a la ciencia de datos porque ayuda a transformar los datos a un formato presentable.
+Falso
+
+¿Por qué es dificil trabajar con objetos para una RDB?
+Porque estan basadas en tablas y no en documentos.
+
+Repasar
+18.
+¿La sentencia WITH es parte del estándard SQL?
+Verdadero
+
+Repasar
+19.
+Las Window Functions nos permiten:
+Hacer agregaciones en todo el dataset.

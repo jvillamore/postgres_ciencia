@@ -1,0 +1,1 @@
+create type humor as enum ('sad', 'normal', 'happy');
